@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+chinese-bert-wwm-ext/*
+data/*
+output/*
+__pycache__/*
